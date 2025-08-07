@@ -1,6 +1,6 @@
 # Portfolio Website 🔥
  || For Client of Big-Data-Analysit Profiles.  ||
-> https://github.com/GHOSTs-OCTOPUS/Portfolio-Big-data-analyst
+> https://ghosts-octopus.github.io/madhurianalytics/
 
 :star: Star me on GitHub — it helps!
 
